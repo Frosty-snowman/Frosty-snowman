@@ -88,7 +88,7 @@
 
 ## 📫 Contact Me
 
-* Email: [nattapat.pinr@gmail.com](mailto:nattapat.pinr@gmail.com)
+* Email: [nattapat.pinrat@gmail.com](mailto:nattapat.pinr@gmail.com)
 * LinkedIn: www.linkedin.com/in/nattapat-pinrat-3363352b7
 
 ---
