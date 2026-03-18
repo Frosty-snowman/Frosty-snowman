@@ -1,78 +1,96 @@
 # 👋 Hi, I'm Frosty (Nattapat)
 
-💻 Full Stack Developer (Rails)
-🚀 Interested in Web Development, Marketing Tech & CMS
-🌱 Currently learning HubSpot CMS & Landing Page Optimization
+💻 Full Stack Developer (Ruby on Rails)
+🚀 Passionate about building real-world products from idea to production
+🌱 Currently exploring Marketing Tech, CMS, and Landing Page Optimization
 
 ---
 
 ## 🧠 About Me
 
-* 🔥 Passionate about building web applications and marketing-driven websites
-* 🛠️ Love working with Ruby on Rails, and exploring modern frontend tools
-* 📈 Interested in SEO, CRO, and tracking systems (GA4, Tag Manager)
+* 🔥 Fullstack developer specialized in Ruby on Rails
+* 🛠️ Experienced in building applications **end-to-end** (from requirement → development → deployment → iteration)
+* 🤝 Comfortable working with stakeholders, gathering requirements, and delivering real business solutions
+* 📈 Interested in bridging **Tech + Product + Marketing**
 
 ---
 
 ## 🛠️ Tech Stack
-
-**Frontend**
-
-* HTML5, CSS3, JavaScript
-* TailwindCSS
 
 **Backend**
 
 * Ruby on Rails
 * PostgreSQL
 
-**Tools & DevOps**
+**Frontend**
+
+* HTML5, CSS3, JavaScript
+* TailwindCSS
+
+**Tools & Workflow**
 
 * Docker
 * Git / GitHub
-
-**Currently Learning**
-
-* HubSpot CMS (HubL)
-* WordPress
-* Google Analytics (GA4)
+* Agile / Scrum
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 📝 Quest App
+### 🏙️ BMA Training Platform
 
-* Task management system (CRUD)
-* Built with Ruby on Rails + TailwindCSS
-* Features: create, update, delete tasks
+> End-to-end project delivery (Product Discovery → Development → Delivery)
 
-👉 https://github.com/your-repo
+* Gathered requirements directly from stakeholders
+* Designed and developed the system using Ruby on Rails
+* Delivered production-ready system and handled post-launch improvements
 
 ---
 
-### 🌐 Landing Page Practice
+### 🌐 External Engagement (ODDS Team)
 
-* Responsive landing page for marketing campaign
-* Focus on UI/UX & conversion
+> Company website & training management system
 
-👉 https://github.com/your-repo
+* Improved and maintained company website
+* Built training course management system
+* Managed resources for both **online & onsite classes**
+* Contributed to content creation and media production
+
+---
+
+### 🏢 Internal Engagement System
+
+> Internal resource & workforce management
+
+* Developed system to track employee assignments (client/site)
+* Managed company assets (MacBook, computers, monitors)
+* Improved internal workflow efficiency
+
+---
+
+### 📰 Dailynews Platform Improvement
+
+> UI/UX & workflow enhancement
+
+* Refined layout to match design requirements
+* Improved user flow based on business needs
+* Ensured better usability and consistency
 
 ---
 
 ## 📈 Current Focus
 
-* 🚀 Building high-converting landing pages
-* 📊 Learning SEO & tracking (GA4, Meta Pixel)
-* 🔗 Integrating APIs & marketing tools
+* 🚀 Expanding into Marketing Tech & CMS (HubSpot, WordPress)
+* 📊 Learning SEO, Tracking (GA4, Tag Manager), and CRO
+* 🔗 Building scalable web applications with better user experience
 
 ---
 
 ## 📫 Contact Me
 
-* Email: [your@email.com](mailto:your@email.com)
-* LinkedIn: https://linkedin.com/in/your-profile
+* Email: [nattapat.pinr@gmail.com](mailto:nattapat.pinr@gmail.com)
+* LinkedIn: www.linkedin.com/in/nattapat-pinrat-3363352b7
 
 ---
 
-✨ “Keep building. Keep improving.” ✨
+✨ “From idea to production — I build things that actually work.” ✨
