@@ -1,96 +1,101 @@
-# 👋 Hi, I'm Frosty (Nattapat)
+# 👋 Hi, I'm Frosty — Nattapat Pinrat
 
-💻 Full Stack Developer (Ruby on Rails)
-🚀 Passionate about building real-world products from idea to production
-🌱 Currently exploring Marketing Tech, CMS, and Landing Page Optimization
+```
+Economics student → Python learner → SQL explorer → Data Bootcamp → Fullstack Developer @ ODDS
+```
+
+💎 **Full Stack Developer** specializing in **Ruby on Rails**  
+🎓 B.Econ, Kasetsart University — took a left turn into software, never looked back  
+🚀 Building end-to-end products: from requirement gathering all the way to production  
+🌱 Currently exploring **Marketing Tech**, CMS, SEO, and Landing Page Optimization  
 
 ---
 
 ## 🧠 About Me
 
-* 🔥 Fullstack developer specialized in Ruby on Rails
-* 🛠️ Experienced in building applications **end-to-end** (from requirement → development → deployment → iteration)
-* 🤝 Comfortable working with stakeholders, gathering requirements, and delivering real business solutions
-* 📈 Interested in bridging **Tech + Product + Marketing**
+- 🔥 Started with Python & SQL, found my home in **Ruby on Rails**
+- 🏢 Grew from intern to fullstack developer at **ODDS** — built real products for real users
+- 🤝 Comfortable talking to stakeholders, translating business needs into working systems
+- 📈 Passionate about bridging **Tech × Product × Marketing**
+- ⚡ Rails dev by nature: fullstack at heart, Stimulus JS for the sprinkles
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Backend**
-
-* Ruby on Rails
-* PostgreSQL
+- Ruby on Rails (primary — fullstack framework)
+- PostgreSQL
 
 **Frontend**
-
-* HTML5, CSS3, JavaScript
-* TailwindCSS
+- HTML5, TailwindCSS
+- Stimulus JS (Hotwire)
 
 **Tools & Workflow**
-
-* Docker
-* Git / GitHub
-* Agile / Scrum
-
+- Docker
+- Git / GitHub
+- Agile / Scrum
 ---
 
 ## 🚀 Featured Projects
 
 ### 🏙️ BMA Training Platform
+> End-to-end delivery: Product Discovery → Development → Deployment → Iteration
 
-> End-to-end project delivery (Product Discovery → Development → Delivery)
+A registration and course management system built for **Bangkok Metropolitan Administration (BMA)** — covering student enrollment, teacher management, and admin controls.
 
-* Gathered requirements directly from stakeholders
-* Designed and developed the system using Ruby on Rails
-* Delivered production-ready system and handled post-launch improvements
+- Gathered requirements directly from government stakeholders
+- Designed and built the full system in Ruby on Rails
+- Delivered production-ready and handled post-launch improvements
 
----
-
-### 🌐 External Engagement (ODDS Team)
-
-> Company website & training management system
-
-* Improved and maintained company website
-* Built training course management system
-* Managed resources for both **online & onsite classes**
-* Contributed to content creation and media production
+`Ruby on Rails` `PostgreSQL` `TailwindCSS` `Government`
 
 ---
 
-### 🏢 Internal Engagement System
+### 🌐 ODDS Company Website
+> External-facing product representing the company's identity
 
-> Internal resource & workforce management
+Company website showcasing ODDS's brand, training courses (online & onsite), and internal events.
 
-* Developed system to track employee assignments (client/site)
-* Managed company assets (MacBook, computers, monitors)
-* Improved internal workflow efficiency
+- Maintained and improved the main company website
+- Built the training course management module
+- Contributed to content creation and media production
+
+`Ruby on Rails` `TailwindCSS` `Stimulus JS` `CMS`
+
+---
+
+### 🏢 ODDS Internal Engagement System
+> Internal resource and workforce management tool
+
+An internal system for managing people and company assets — who's assigned where, and what equipment they have.
+
+- Employee assignment tracking (client / site)
+- Asset management: MacBooks, monitors, computers
+- Improved internal operations and workflow efficiency
+
+`Ruby on Rails` `PostgreSQL` `HR System` `Asset Management`
 
 ---
 
 ### 📰 Dailynews Platform Improvement
+> UI/UX and workflow enhancement
 
-> UI/UX & workflow enhancement
+Improved layout consistency and user flow of a news platform based on business and design requirements.
 
-* Refined layout to match design requirements
-* Improved user flow based on business needs
-* Ensured better usability and consistency
+- Refined layout to match design specifications
+- Improved user flow based on business needs
+- Ensured better usability and visual consistency
 
----
-
-## 📈 Current Focus
-
-* 🚀 Expanding into Marketing Tech & CMS (HubSpot, WordPress)
-* 📊 Learning SEO, Tracking (GA4, Tag Manager), and CRO
-* 🔗 Building scalable web applications with better user experience
+`Ruby on Rails` `HTML` `CSS` `UI/UX`
 
 ---
 
 ## 📫 Contact Me
 
-* Email: [nattapat.pinrat@gmail.com](mailto:nattapat.pinr@gmail.com)
-* LinkedIn: www.linkedin.com/in/nattapat-pinrat-3363352b7
+- 📧 Email: [nattapat.pinrat@gmail.com](mailto:nattapat.pinrat@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/nattapat-pinrat-3363352b7](https://www.linkedin.com/in/nattapat-pinrat-3363352b7)
 
 ---
 
-✨ “From idea to production — I build things that actually work.” ✨
+✨ *"From economics grad to fullstack developer — I build things that actually work."* ✨
